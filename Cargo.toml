@@ -1,0 +1,8 @@
+[package]
+name = "ternary-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Unified ternary {-1,0,+1} agent simulation engine — the platform core for CudaClaw, AI-Pasture, and Living Spreadsheet"
+license = "MIT"
+
+[dependencies]
