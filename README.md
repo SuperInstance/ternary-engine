@@ -79,3 +79,11 @@ for _ in 0..1000 {
 - Pareto selection not yet implemented in engine (see `ternary-seed`)
 
 License: MIT
+
+## See Also
+- **ternary-compiler** — related
+- **ternary-transform** — related
+- **ternary-command** — related
+- **ternary-pipeline** — related
+- **ternary-protocol** — related
+
